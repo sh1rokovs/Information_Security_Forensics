@@ -30,7 +30,7 @@ https://github.com/volatilityfoundation/volatility - volatility
 https://securelist.ru/petya-the-two-in-one-trojan/28473/ ; https://securelist.ru/ataki-do-zagruzki-sistemy/20151/ ;
 https://spy-soft.net/how-to-create-memory-dump-windows/ ; https://blog.group-ib.ru <br>
 Общие статьи - https://habr.com/ru/company/group-ib/blog/551444/ ; https://habr.com/ru/company/ruvds/blog/534218/ ;
-https://habr.com/ru/post/136816/ ; https://habr.com/ru/post/338378/ ; https://habr.com/ru/post/327740/ ;
+https://habr.com/ru/post/136816/ ; https://habr.com/ru/post/338378/ ; https://habr.com/ru/post/327740/ ; <br>
 https://www.youtube.com/watch?v=Auif45cTTwQ ; https://www.youtube.com/watch?v=VTl_kw15KBo
 
 
