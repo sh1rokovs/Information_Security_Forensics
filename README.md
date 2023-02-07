@@ -25,10 +25,10 @@ https://github.com/libyal/libewf - Libewf is a library to access the Expert Witn
 https://rt-solar.ru/products/jsoc/cert/
 https://www.magnetforensics.com/products/magnet-axiom/ - magnet axiom; https://www.securitylab.ru/software/504601.php
 https://github.com/volatilityfoundation/volatility - volatility
-Ассемблер - https://www.youtube.com/watch?v=PHyIP9g9BQw ; https://habr.com/ru/post/544786/ ; https://habr.com/ru/post/423077/ ; https://habr.com/ru/post/129739/
+Ассемблер - https://www.youtube.com/watch?v=PHyIP9g9BQw ; https://habr.com/ru/post/544786/ ; https://habr.com/ru/post/423077/ ; https://habr.com/ru/post/129739/<br>
 Статьи - https://habr.com/ru/post/211749/ ; https://xakep.ru/2013/11/16/forensic-ram-ringerprints/ ; 
 https://securelist.ru/petya-the-two-in-one-trojan/28473/ ; https://securelist.ru/ataki-do-zagruzki-sistemy/20151/ ;
-https://spy-soft.net/how-to-create-memory-dump-windows/ ; https://blog.group-ib.ru
+https://spy-soft.net/how-to-create-memory-dump-windows/ ; https://blog.group-ib.ru <br>
 Общие статьи - https://habr.com/ru/company/group-ib/blog/551444/ ; https://habr.com/ru/company/ruvds/blog/534218/ ;
 https://habr.com/ru/post/136816/ ; https://habr.com/ru/post/338378/ ; https://habr.com/ru/post/327740/ ;
 https://www.youtube.com/watch?v=Auif45cTTwQ ; https://www.youtube.com/watch?v=VTl_kw15KBo
