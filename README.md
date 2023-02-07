@@ -25,5 +25,9 @@ https://github.com/libyal/libewf - Libewf is a library to access the Expert Witn
 https://rt-solar.ru/products/jsoc/cert/
 https://www.magnetforensics.com/products/magnet-axiom/ - magnet axiom; https://www.securitylab.ru/software/504601.php
 https://github.com/volatilityfoundation/volatility - volatility
+Ассемблер - https://www.youtube.com/watch?v=PHyIP9g9BQw ; https://habr.com/ru/post/544786/ ; https://habr.com/ru/post/423077/ ; https://habr.com/ru/post/129739/
+Статьи - https://habr.com/ru/post/211749/ ; https://xakep.ru/2013/11/16/forensic-ram-ringerprints/ ; 
+https://securelist.ru/petya-the-two-in-one-trojan/28473/ ; https://securelist.ru/ataki-do-zagruzki-sistemy/20151/ ;
+https://spy-soft.net/how-to-create-memory-dump-windows/ ; https://blog.group-ib.ru
 
 
