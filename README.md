@@ -15,3 +15,15 @@ IOC — cканеры (компрометация) - https://github.com/Neo23x0/
 Инструменты для Mac - https://github.com/ydkhatri/mac_apt / https://themittenmac.com/the-esf-playground/ / https://objective-see.org/products/knockknock.html <br>
 Инструменты для смартфонов - https://github.com/MobSF/Mobile-Security-Framework-MobSF / https://github.com/den4uk/andriller / https://github.com/abrignoni/ALEAPP / https://github.com/abrignoni/iLEAPP<br>
 Различные инструменты - https://github.com/vitaly-kamluk/bitscout / https://github.com/ForensicArtifacts/artifacts / https://github.com/GuidoBartoli/sherloq / https://github.com/sevagas/swap_digger / https://github.com/simsong/bulk_extractor / https://github.com/AlessandroZ/LaZagne / https://github.com/rabbitstack/fibratus / https://github.com/sshock/AFFLIBv3 / https://github.com/SigmaHQ/sigma
+
+# Изучить:
+https://github.com/sleuthkit/sleuthkit - stk
+https://www.autopsy.com - autopsy; https://habr.com/ru/company/alexhost/blog/533260/
+https://github.com/sshock/AFFLIBv3 - afftools; https://www.mankier.com/package/afftools
+https://www.mankier.com/package/ewftools - ewftools
+https://github.com/libyal/libewf - Libewf is a library to access the Expert Witness Compression Format (EWF)
+https://rt-solar.ru/products/jsoc/cert/
+https://www.magnetforensics.com/products/magnet-axiom/ - magnet axiom; https://www.securitylab.ru/software/504601.php
+https://github.com/volatilityfoundation/volatility - volatility
+
+
